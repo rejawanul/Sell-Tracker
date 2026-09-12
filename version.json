@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/REJAWANUL/Sell-Tracker/releases/download/v1.4.0/SellTracker-v1.4.0.apk",
+  "versionCode": 9,
+  "versionName": "1.5.0",
+  "apkUrl": "https://github.com/REJAWANUL/Sell-Tracker/releases/download/v1.5.0/SellTracker-v1.5.0.apk",
   "mandatory": false,
   "releaseNotes": "• Cleaned up Products UI (removed redundant damage buttons)\n• Restricted Damage products & deletion permission to Owner only\n• Changed Avg/Order to Avg/Item on Today's Sales dashboard\n• Dynamic version display fix"
 }
