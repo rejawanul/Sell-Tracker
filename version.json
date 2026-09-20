@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.6.0",
-  "apkUrl": "https://github.com/rejawanul/Sell-Tracker/releases/download/v1.6.0/SellTracker-v1.6.0.apk",
+  "versionCode": 11,
+  "versionName": "1.7.0",
+  "apkUrl": "https://github.com/rejawanul/Sell-Tracker/releases/download/v1.7.0/SellTracker-v1.7.0.apk",
   "mandatory": false,
   "releaseNotes": "• Added real-time Push Notifications for Sales & Expenses\n• Staff can now use App Lock & Recalculate Balance features\n• Fixed balance calculation bug when deleting sales\n• Fixed Drive auto-backup midnight crossover bug"
 }
